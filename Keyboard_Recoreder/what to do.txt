@@ -1,0 +1,4 @@
+Step 1: Download all 5 files
+Step 2: Put them in the same folder
+Step 3: extract the .zip file as you would normally do
+Step 4: open the extracted folder with unity hub
